@@ -1,11 +1,12 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">React native developer with 2.5 years experience who loves to build awesome mobile apps.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif” />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkdev&label=Profile%20views&color=0e75b6&style=flat" alt="bharathkdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathkdev" alt="bharathkdev" /></a> </p>
+
+<img align="right" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" alt="Coding" width="300" />
 
 - 🌱 I’m currently learning **React Native, Javascript**
 
@@ -16,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@bharath.k_84816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bharath.k_84816" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bharathaskkarur1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bharathaskkarur1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@bharathaskkarur1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharathaskkarur1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bharathk25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharathk25" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bharathk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharathk" height="30" width="40" /></a>
 </p>
