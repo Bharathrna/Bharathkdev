@@ -8,11 +8,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" alt="Coding" width="300" />
 
-- 🌱 I’m currently learning **React Native, Javascript**
+- 🌱 I’m currently learning **React Native, Javascript and Node JS**
 
-- 💬 Ask me about **React Native, Javascript, Data structures**
+- 💬 Ask me about **React Native, Javascript, Node JS**
 
-- 📫 How to reach me **bharathaskkarur46@gmail.com**
+- 📫 How to reach me **bharathdevrn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
